@@ -21,7 +21,7 @@ In my case, I mostly learn from official documentations of different technologie
 6. Ip port and services scanning
 7. Filter out live subdomians
 8. Manually check all the live subdomians
-9. Find out the tech stack used to build the application, find versions search exploits
+9. Find out the tech stack used to build the application, find versions search exploits(Builtwith, Zappalyzer)
 10. Use gau and waybackurls to crawl for urls and endpoints
 11. Use grep to filter out required information from the crawled urls
 12. Get js files from crawleed txt files and save it to new file and scan js files for data exposure
